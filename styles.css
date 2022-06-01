@@ -1,9 +1,15 @@
 h1 {
-    border-color: navy;
+    border-color: #6CCFF6;
     border-style: dashed;
-    color: red;
+    color: #001011;
 }
 
 * {
-    background-color: bisque;
+    background-color: #FFFFFC;
 }
+
+/*
+sonic silver: 757780
+yellow green: 98CE00
+
+*/
