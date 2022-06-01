@@ -30,7 +30,7 @@ h1 {
     object-fit: cover;
     margin-top: 8px;
     padding: 0 4px;
-    border-radius: 10px;
+    border: 10px ridge #757780;
   }
 
 /*
