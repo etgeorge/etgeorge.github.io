@@ -1,3 +1,8 @@
 h1 {
-    color : blue;
+    border-color: navy;
+    border-style: dashed;
+}
+
+* {
+    background-color: bisque;
 }
