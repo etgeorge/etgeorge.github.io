@@ -30,11 +30,7 @@ h1 {
     }
 }
 
-@media (max-width: 600px){
-    #gallery img{
-        width: 100%;
-    }
-}
+
 
 #gallery {
     display: flex;
@@ -52,6 +48,12 @@ h1 {
     padding: 0 4px;
     border: 10px ridge #757780;
   }
+  
+@media (max-width: 600px){
+    #gallery img{
+        width: 100%;
+    }
+}
 
 /*
 sonic silver: #757780
