@@ -30,6 +30,12 @@ h1 {
     }
 }
 
+@media (max-width: 600px){
+    #gallery{
+        width: 100%;
+    }
+}
+
 #gallery {
     display: flex;
     flex-direction: row;
