@@ -2,7 +2,7 @@ h1 {
     border-color: #6CCFF6;
     border-style: dashed;
     color: #001011;
-
+    position: fixed;
     font-family: Georgia, Times, "Times New Roman", serif;
     
     font-style: normal;
@@ -14,6 +14,20 @@ h1 {
 
 * {
     background-color: #FFFFFC;
+}
+#animated {
+    animation-duration: 5s;
+    animation-name: movement;
+    animation-iteration-count: infinite;
+}
+
+@keyframes movement {
+    0%{
+        top: 0px;
+    }
+    100%{
+        top: 100px;
+    }
 }
 
 #gallery {
