@@ -2,7 +2,7 @@ h1 {
     border-color: #6CCFF6;
     border-style: dashed;
     color: #001011;
-    position: fixed;
+    position: relative;
     font-family: Georgia, Times, "Times New Roman", serif;
     
     font-style: normal;
