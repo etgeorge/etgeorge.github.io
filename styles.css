@@ -7,6 +7,7 @@ h1 {
     
     
 }
+
 .font{
 
     font-family: Georgia, Times, "Times New Roman", serif;
@@ -22,6 +23,7 @@ header {
     font-size: 45px;
     margin-bottom: 5px;
 }
+
 
 * {
     background-color: #FFFFFC;
