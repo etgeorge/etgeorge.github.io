@@ -23,6 +23,9 @@ header {
     font-size: 45px;
     margin-bottom: 5px;
 }
+header:hover {
+    opacity: 0.5;
+}
 
 
 * {
