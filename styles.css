@@ -60,6 +60,7 @@ header {
     margin-top: 8px;
     padding: 0 4px;
     border: 10px ridge #757780;
+    float: none;
   }
 
 @media (max-width: 600px){
