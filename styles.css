@@ -67,6 +67,9 @@ header {
     #gallery img{
         width: 100%;
     }
+    header {
+        font-size: 15px;
+    }
 }
 
 /*
