@@ -26,7 +26,9 @@ header {
 header:hover {
     opacity: 0.5;
 }
-
+a:hover{
+    color: #6ccff6;
+}
 
 * {
     background-color: #FFFFFC;
