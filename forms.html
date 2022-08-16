@@ -27,3 +27,36 @@
     <input id="searchbar" type="text" placeholder="search" name="q">
     <button>Search</button>
 </form>
+<hr>
+<h2>Race Registration!</h2>
+<form action="/tacos">
+    <div>
+        <label for="firstName">First name:</label>
+        <input type="text" id="firstName" name="firstName">
+        <label for="lastName">Last name:</label>
+        <input type="text" id="secondName" name="secondName">
+    </div>
+    <p>Select a race:</p>
+    <input type="radio" name="length" id="mile">
+    <label for="mile">Mile</label>
+    <br>
+    <input type="radio" name="length" id="5k">
+    <label for="5k">5k</label>
+    <br>
+    <input type="radio" name="length" id="10k">
+    <label for="10k">10k</label>
+    <div>
+        <label for="email">Enter email:</label>
+        <input type="email" name="email" id="email" required>
+        <label for="password">Enter password:</label>
+        <input type="password" name="password" id="password" required>
+    </div>
+    <label for="age">Select age:</label>
+    <select id="age">
+        <option>18-24</option>
+        <option>25-36</option>
+        <option>36-69</option>
+    </select>
+    <br>
+    <button>Submit</button>
+</form>
