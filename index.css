@@ -4,6 +4,7 @@ nav {
     background-color: aquamarine;
     display: flex;
     justify-content: space-evenly;
+    padding: 0.5em;
 }
 
 @media (max-width: 170px){
